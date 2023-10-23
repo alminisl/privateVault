@@ -1,0 +1,1 @@
+Added the `<Slider>` component here but not sure if that is the right place.. Essentially the node is the one thing shown in the popupmodal of Layers.

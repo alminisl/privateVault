@@ -1,0 +1,1 @@
+for example `sudo mount -t nfs 128.0.0.165:/volume1/music /mnt/NAS`. And voilà! You should now be connected.

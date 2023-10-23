@@ -1,0 +1,3 @@
+Hi Almin, for a brand new preset, everything should be at the "no change" setting, i.e. undefined. The idea is that Clara has to explicitly opt-in to overriding a value, rather than capturing whatever the current value happens to be. This is in the AC:
+
+> -   Where a "No Change" option exists, that is the default state of the configuration form for that item. So that, if all I do is change layer visibility, all the other settings already configured are respected.

@@ -1,0 +1,51 @@
+
+This is a test 
+- Meeting about new projects, Alex Stoltz
+	- Team leader so to say 
+	- EDS - Engineering digital solutions
+	- EDX - Engineering digital Experience
+	- ACS - Automative Connected Services 
+- Projects / topics
+	- Motorsport MSD
+	- Industry
+	- BEG invest
+	- Aut System Engineering
+	- Internal Combustion Engine
+	- Connected services
+- Main Topics
+	- Race connect
+	- EMpera
+	- Dig Framework
+	- ICC 
+	- presSOP (Calponia)
+	- Mobility Cloud
+
+- **Projects**
+	- Race Connect
+		- Streaming data from races to the cloud
+		- Already existing and adding new features etc. 
+	- BEG Service Factory
+		- AKA BEG Solution Factory
+		- Vehicel service
+		- Car data to the Cloud 
+		- Resource Planning 
+	- ML Devops for Rail
+		- Machine learning devops pipeline for Rails 
+		- Railway data - Processing etc. 
+	- BECKI 
+		- Cloud kit 
+		- Solving issues with different tech stacks
+		- Basic Technology Definition 
+	- SPEAR
+		- Will be on AWS 
+		- Security Trees 
+		- Tech Stack? What exactly is the purpose? Software security?
+	- ACS PostSOP Topics
+		- Complete connectivity 
+		- Software defined vehicle
+		- perfectly keyless
+	- SWDV
+		- car components that talk with the cloud
+	- FXG
+
+- Tech Radar, what tech are we using. 

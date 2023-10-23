@@ -1,0 +1,7 @@
+In the context of a service mesh, a sidecar is a small, lightweight proxy that is deployed alongside each microservice in a distributed application. The sidecar intercepts and manages the communication between the microservice and other services in the application, providing features such as service discovery, load balancing, traffic routing, and fault tolerance.
+
+The sidecar typically runs in a separate process or container from the microservice, and is attached to the same network namespace as the microservice. This allows it to intercept and manage the communication between the microservice and other services, without the microservice being aware of it.
+
+The sidecar is responsible for providing the features and capabilities of the service mesh to the microservice. This includes tasks such as discovering the other services in the application, routing traffic between them, balancing the load across the services, and providing fault tolerance and resiliency.
+
+Overall, a sidecar is a crucial component of a service mesh, as it provides the infrastructure for communication and coordination between the microservices in a distributed application. It allows the microservices to focus on their core business logic, and makes it easier to develop, deploy, and manage distributed applications.

@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "94b7b4e7a10711d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb009014cd9ef04b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Second Brain/📬Inbox/Fix the Jackett and Sonarr connections.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "2d71e6a726bb156a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Second Brain/📬Inbox/Move the configs.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07503fa27068df0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e38975f405365ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8731665137621f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ccf8badac6fb2e25",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "trpc",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "25b1a31c2924f8bd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c7c2b7f2b2f0989c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a49fc53a67d33892",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca21a7c7944810cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Second Brain/📬Inbox/Move the configs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f0289ff1595b4c1a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Second Brain/📬Inbox/Move the configs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b37445a524f4f1c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0a4d2cc55e44c4be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Second Brain/📬Inbox/Move the configs.md"
+              }
+            }
+          },
+          {
+            "id": "fe7f08cc5d4dcc71",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2d71e6a726bb156a",
+  "lastOpenFiles": [
+    "Second Brain/📬Inbox/Fix the Jackett and Sonarr connections.md",
+    "Second Brain/📖Resources/Server - NAS - Selfhosted/AdGuardHome portainer image.md",
+    "Second Brain/📖Resources/Server - NAS - Selfhosted/Command to mount drives from NAS to RPI.md",
+    "Second Brain/📖Resources/Server - NAS - Selfhosted/How to Mount Synology NAS to Raspberry Pi.md",
+    "Second Brain/📖Resources/Server - NAS - Selfhosted/Installing plex on RPI.md",
+    "Second Brain/📖Resources/Server - NAS - Selfhosted/Learn Terraform with Azure by Building a Dev Envir.md",
+    "Second Brain/📖Resources/Server - NAS - Selfhosted/linking PI and Synology.md",
+    "Second Brain/📖Resources/Server - NAS - Selfhosted/List of things I self host - With docker commands.md",
+    "Second Brain/📖Resources/Server - NAS - Selfhosted/Net Data for RPI monitoring.md",
+    "Second Brain/📖Resources/Server - NAS - Selfhosted/Paperless Portainer file.md"
+  ]
+}

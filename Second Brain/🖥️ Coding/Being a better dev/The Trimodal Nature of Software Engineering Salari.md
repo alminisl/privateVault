@@ -1,0 +1,1 @@
+https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/

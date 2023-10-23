@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "94b7b4e7a10711d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc429e76fe0e6dda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b51efd11b7169012",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Second Brain/📂Projects/PK/Local setup.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d2909e6e7ae0c78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Second Brain/📬Inbox/23-11-2022.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e78ecfa2961a43a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Second Brain/📬Inbox/23-11-2022.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa0a9ae5379a4646",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Second Brain/📂Projects/PK/Documentation/MVP System definition.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07503fa27068df0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e38975f405365ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8731665137621f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ccf8badac6fb2e25",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Linux",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "25b1a31c2924f8bd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248.5
+  },
+  "right": {
+    "id": "c7c2b7f2b2f0989c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a49fc53a67d33892",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca21a7c7944810cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Second Brain/📬Inbox/23-11-2022.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f0289ff1595b4c1a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Second Brain/📬Inbox/23-11-2022.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b37445a524f4f1c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0a4d2cc55e44c4be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Second Brain/📬Inbox/23-11-2022.md"
+              }
+            }
+          },
+          {
+            "id": "fe7f08cc5d4dcc71",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5e78ecfa2961a43a",
+  "lastOpenFiles": [
+    "Second Brain/📬Inbox/Obsidian on Ipad.md",
+    "Second Brain/📬Inbox/23-11-2022.md",
+    "Second Brain/📂Projects/PK/Cloud Setup.md",
+    "Second Brain/📂Projects/PK/Basics of the project.md",
+    "Second Brain/📂Projects/PK/Documentation/MVP System definition.md",
+    "Second Brain/📬Inbox/22-11-2022.md",
+    "Second Brain/📂Projects/SportTracker/Prisma backup.md",
+    "Second Brain/📂Projects/PK/Kubernetes setup/Certificates.md",
+    "Second Brain/📂Projects/PK/Kubernetes setup/Lens Kubernetes IDE.md",
+    "Second Brain/📂Projects/PK/Kubernetes setup/To Research.md"
+  ]
+}

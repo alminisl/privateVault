@@ -1,0 +1,1 @@
+https://www.reddit.com/r/ObsidianMD/comments/15j3mb9/my_complete_obsidian_workflow_to_manage_my_life/
