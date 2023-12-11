@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gaming/Magic The Gathering/Balan Deck.md",
+                "file": "Gaming/Magic The Gathering/Wishlist.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gaming/Magic The Gathering/Balan Deck.md",
+                "file": "Gaming/Magic The Gathering/Wishlist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gaming/Magic The Gathering/Balan Deck.md",
+                "file": "Gaming/Magic The Gathering/Wishlist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gaming/Magic The Gathering/Balan Deck.md"
+                "file": "Gaming/Magic The Gathering/Wishlist.md"
               }
             }
           },
@@ -201,9 +201,10 @@
   },
   "active": "327c23dfa9e8c238",
   "lastOpenFiles": [
+    "Gaming/Magic The Gathering/Balan Deck.md",
+    "Gaming/Magic The Gathering/Wishlist.md",
     "Gaming/Magic The Gathering/Deck List.md",
     "Gaming/Magic The Gathering/Omnath Deck.md",
-    "Gaming/Magic The Gathering/Balan Deck.md",
     "Gaming/Cool website.md",
     "Second Brain/📂Projects/Exercise Gifs.md",
     "Weekly/📅 2023-W42.md",
@@ -225,7 +226,6 @@
     "Daily/1.2023/09-01-2023.md",
     "Fiskaly - Knowledge base.md",
     "Daily/8.2023/07-08-2023 Mon.md",
-    "Second Brain/📂Projects/Fiskaly/Friday Fun Experiments/Database Experiments.md",
-    "Daily/8.2023/03-08-2023 Thu 1.md"
+    "Second Brain/📂Projects/Fiskaly/Friday Fun Experiments/Database Experiments.md"
   ]
 }
