@@ -8,24 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "327c23dfa9e8c238",
+            "id": "4d6edf879b1ab7b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly/📅 2023-W51.md",
+                "file": "Second Brain/Dashboard - Inbox.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "f46bcfd2cff925f0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -102,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weekly/📅 2023-W51.md",
+                "file": "Second Brain/Dashboard - Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekly/📅 2023-W51.md",
+                "file": "Second Brain/Dashboard - Inbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weekly/📅 2023-W51.md"
+                "file": "Second Brain/Dashboard - Inbox.md"
               }
             }
           },
@@ -196,15 +188,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "e8731665137621f2",
+  "active": "4d6edf879b1ab7b5",
   "lastOpenFiles": [
+    "Home.md",
+    "Weekly/📅 2023-W51.md",
     "Templates/Weekly.md",
     "Templates",
     "Second Brain/Dashboard - Inbox.md",
-    "Weekly/📅 2023-W51.md",
     "Weekly",
     "Second Brain/📂Projects/Blogposts Ideas/Blogpost Astro.md",
     "Second Brain/📂Projects/Blogposts Ideas/project blogposts from obsidian.md",
@@ -228,7 +222,6 @@
     "Second Brain/📖Resources/PK/Documentation/Arc42 Docu.md",
     "Second Brain/📂Projects/Fiskaly/KB/Tech/Code onboarding.md",
     "Daily/2.2023/10-02-2023 Fri.md",
-    "Daily/8.2023/21-08-2023 Mon.md",
-    "Daily/8.2023/30-08-2023 Wed.md"
+    "Daily/8.2023/21-08-2023 Mon.md"
   ]
 }
