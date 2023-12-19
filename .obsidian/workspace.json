@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second Brain/Dashboard - Inbox.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second Brain/Dashboard - Inbox.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second Brain/Dashboard - Inbox.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second Brain/Dashboard - Inbox.md"
+                "file": "Home.md"
               }
             }
           },
@@ -194,11 +194,11 @@
   },
   "active": "4d6edf879b1ab7b5",
   "lastOpenFiles": [
+    "Second Brain/Dashboard - Inbox.md",
     "Home.md",
     "Weekly/📅 2023-W51.md",
     "Templates/Weekly.md",
     "Templates",
-    "Second Brain/Dashboard - Inbox.md",
     "Weekly",
     "Second Brain/📂Projects/Blogposts Ideas/Blogpost Astro.md",
     "Second Brain/📂Projects/Blogposts Ideas/project blogposts from obsidian.md",
