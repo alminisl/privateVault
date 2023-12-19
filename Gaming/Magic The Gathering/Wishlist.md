@@ -5,3 +5,4 @@ For the Kaalia Deck:
 For Dino Deck: 
 - Roaming Throne 
 - Monster Manual 
+
