@@ -20,7 +20,7 @@ First I want to check Erics theory about the portal thingy then I will move on t
 
 Eric did a sample test and seems like its working, so what was I missing. 
 - The test is made in `LayerListNode.tsx` and that is used to run the test
-- Firstly I was missing the `userEvent` from the `react-testing` ([[Second Brain/🖥️ Coding/Coding/Links/React-testing]])classes. After that is added we can do `userEvent.click(MenuButton)` 
+- Firstly I was missing the `userEvent` from the `react-testing` ([[Second Brain/🖥️ Coding/Coding/React-testing]])classes. After that is added we can do `userEvent.click(MenuButton)` 
 - The `MenuButton` was right the way I did it (FindByRole) 
 - And the setup process sets the opacity.
 

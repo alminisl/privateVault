@@ -26,6 +26,6 @@ Posted also in the github: https://github.com/ueberdosis/tiptap/issues/2403
 
 Maybe this warrants a [[blogpost]] ? 
 
-Also I've used the [[Second Brain/🖥️ Coding/Coding/Coding Tooling/TRPC/TRPC example app]] to understand the flow better. 
+Also I've used the [[Second Brain/🖥️ Coding/Coding/TRPC/TRPC example app]] to understand the flow better. 
 
 Added [[TODO]] stuff which should be worked on. 

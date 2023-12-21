@@ -1,1 +1,0 @@
-https://jagt.github.io/clumsy/

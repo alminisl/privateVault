@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly/📅 2023-W51.md",
+                "file": "Second Brain/🖥️ Coding/abstract.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b4e1f5a9f1a34a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📬Inbox/Text based role playing game.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -28,7 +41,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weekly/📅 2023-W51.md",
+                "file": "📬Inbox/Text based role playing game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekly/📅 2023-W51.md",
+                "file": "📬Inbox/Text based role playing game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weekly/📅 2023-W51.md"
+                "file": "📬Inbox/Text based role playing game.md"
               }
             }
           },
@@ -199,36 +213,39 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e8731665137621f2",
+  "active": "7b4e1f5a9f1a34a7",
   "lastOpenFiles": [
-    "Templates/Weekly.md",
-    "Templates",
-    "Second Brain/Dashboard - Inbox.md",
-    "Weekly/📅 2023-W51.md",
-    "Weekly",
-    "Second Brain/📂Projects/Blogposts Ideas/Blogpost Astro.md",
-    "Second Brain/📂Projects/Blogposts Ideas/project blogposts from obsidian.md",
-    "Second Brain/📂Projects/Blogposts Ideas/BLOGPOST IDEA - Wrie how nextJS FE - API - API is so weird but yet so powerfull.md",
-    "Second Brain/📂Projects/Exercise Gifs.md",
-    "Second Brain/📂Projects/Feedback project.md",
-    "Second Brain/📂Projects/How does HTTP work.md",
+    "📬Inbox/Obsidian workflow.md",
+    "📬Inbox/Ongoing project.md",
     "Second Brain/📂Projects/MTG - Digital Binder.md",
-    "Second Brain/📂Projects/mtg token app.md",
-    "Second Brain/📂Projects/Wiki - niki.md",
-    "Gaming/Magic The Gathering/Decks/Balan Deck.md",
-    "Gaming/Magic The Gathering/Wishlist.md",
-    "Gaming/Magic The Gathering/Decks",
-    "Gaming/Magic The Gathering/Decks/Deck List.md",
-    "Gaming/Magic The Gathering/Decks/Omnath Deck.md",
-    "Gaming/Cool website.md",
-    "Weekly/📅 2023-W42.md",
-    "Second Brain/📖Resources/blogpost.md",
-    "17-10-2023 Tue.md",
-    "Daily/1.2023/26-01-2023 Thu.md",
-    "Second Brain/📖Resources/PK/Documentation/Arc42 Docu.md",
-    "Second Brain/📂Projects/Fiskaly/KB/Tech/Code onboarding.md",
-    "Daily/2.2023/10-02-2023 Fri.md",
-    "Daily/8.2023/21-08-2023 Mon.md",
-    "Daily/8.2023/30-08-2023 Wed.md"
+    "📬Inbox/MTG - Digital Binder.md",
+    "Second Brain/Dashboard - Inbox.md",
+    "📬Inbox/Manga.md",
+    "📬Inbox/Fiskaly - Onboarding.md",
+    "README.md",
+    "Second Brain/🖥️ Coding/abstract.md",
+    "Second Brain/🖥️ Coding/linkedin-skill-assessments-quizzes_javascript-quiz.md",
+    "Second Brain/🖥️ Coding/Deployment.md",
+    "Second Brain/🖥️ Coding/Macbook setup.md",
+    "Second Brain/🖥️ Coding/modifiers.md",
+    "Second Brain/🖥️ Coding/operators in JS.md",
+    "Second Brain/🖥️ Coding/Nestjs.md",
+    "Second Brain/🖥️ Coding/React-testing.md",
+    "Second Brain/🖥️ Coding/React.md",
+    "Second Brain/🖥️ Coding/Refactor this document in other notes.md",
+    "Second Brain/🖥️ Coding/Tauri on Twitter_ _After 4 months of release candi.md",
+    "Second Brain/🖥️ Coding/The cloud data loss and privacy.md",
+    "Second Brain/🖥️ Coding/The Trimodal Nature of Software Engineering Salari.md",
+    "Second Brain/🖥️ Coding/What are Resources_.md",
+    "Second Brain/🖥️ Coding/Tmux.md",
+    "Second Brain/🖥️ Coding/LayerTreeNode.md",
+    "Second Brain/🖥️ Coding/Layer Presets.md",
+    "Second Brain/🖥️ Coding/bash - Delete node_modules folder recursively from.md",
+    "Second Brain/🖥️ Coding/TRPC",
+    "Second Brain/🖥️ Coding/git",
+    "Second Brain/Blog posts",
+    "Templates",
+    "Weekly",
+    "Gaming/Magic The Gathering/Decks"
   ]
 }

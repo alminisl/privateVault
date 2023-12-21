@@ -1,1 +1,0 @@
-https://github.com/TheoBr/TheoBr/blob/master/about/resume.md

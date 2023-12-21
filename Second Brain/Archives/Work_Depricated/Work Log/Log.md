@@ -1,15 +1,15 @@
 So, the idea is to continue my developer log in here and not notion. becuase notion is bit heavy and too much features which I don't need. I just want something simple to write down notes and things Im currently stuck on. 
 
 
-[[Second Brain/🖥️ Coding/Coding/Links/Layer Presets]] is the ticket im working on currently. All the attributes are added, I just need to make the `original values` work. My current idea is to have an attribute in the layerPreset itself to save the original values for it in the attribute. 
+[[Second Brain/🖥️ Coding/Coding/Layer Presets]] is the ticket im working on currently. All the attributes are added, I just need to make the `original values` work. My current idea is to have an attribute in the layerPreset itself to save the original values for it in the attribute. 
 
 something I learned is that I have the `LayerItemstoDtos` or something like that, it has `data` object and that `data` object is being used in `schema` to show / visible or not. 
 
-Made a way to have the [[Second Brain/🖥️ Coding/Coding/Links/no change]]
+Made a way to have the [[Second Brain/🖥️ Coding/Coding/no change]]
 
 Note: The original value can be found in the `model.layerPreset.originalValue` so for reference I can use this. 
 
-Updated [[Second Brain/🖥️ Coding/Coding/Links/no change]] link with Erics comment. Essentially all changes should initially be "no changes".
+Updated [[Second Brain/🖥️ Coding/Coding/no change]] link with Erics comment. Essentially all changes should initially be "no changes".
 
 
 Made a new way to store the `OriginalValues` but still need to figure out what kind of errors are happening. Currently the status is that I can't update the layerList when clicking on the layerPreset. 

@@ -18,7 +18,7 @@ Where does the Menu Items come from?
 
 Still have to figure out where and how to inject the `Slider` here or in the Actions
 
--   In the end what I did is simply in the [[Second Brain/🖥️ Coding/Coding/Links/LayerTreeNode]] added the `children` props and then just passed that down in `MenuButton` as `children={<Slider /}`
+-   In the end what I did is simply in the [[Second Brain/🖥️ Coding/Coding/LayerTreeNode]] added the `children` props and then just passed that down in `MenuButton` as `children={<Slider /}`
 
 Apr 23, 2021
 
@@ -34,7 +34,7 @@ So as far I understand I have to find the `LayerListItemBase` and add a transpar
 I made some changes document this here.. 
 
 #### Something I Learned is that the `node` is the `LayerItemBase` interface. So I have to extend the node with `transperacy` prop. 
-Extending this, Updates and new things about [[Second Brain/🖥️ Coding/Coding/Links/transparency]] its not what I thought, I need to investigate more but this is something related to opacity but as it seems they are not the same thing. 
+Extending this, Updates and new things about [[Second Brain/🖥️ Coding/Coding/transparency]] its not what I thought, I need to investigate more but this is something related to opacity but as it seems they are not the same thing. 
 
 Finding the correct way how transparency relates to opacity is the next step! 
 
@@ -59,9 +59,9 @@ Today I want to check all the acceptence criteria:
 - [x]   We are NOT providing an option for Clara to 'disable' Oscar-facing layer transparency
 
 
-Got introduced to [[Second Brain/🖥️ Coding/Coding/Links/falsy]] values in react now.. when conditionally rendering a component. 
+Got introduced to [[Second Brain/🖥️ Coding/Coding/falsy]] values in react now.. when conditionally rendering a component. 
 
-Maybe using the `??` [[Second Brain/🖥️ Coding/Coding/Links/operator]] will help in this case..
+Maybe using the `??` [[Second Brain/🖥️ Coding/Coding/operator]] will help in this case..
 No need for the operator in the end. 
 
 Still whats left is to rename transparency to opacity.. Transperancy is the way it should be FYI! 
@@ -72,7 +72,7 @@ Next up some feedback from Eric and I will probably add that to the knowledge ba
 
 Today I have still some feedback left and will have to fix this. 
 
-The thing I refactored so far is making [[Second Brain/🖥️ Coding/Coding/Links/abstract]] props for a class. These props are now in the `base` class and other classes which extend this base class need to implement those abstract props and functions.
+The thing I refactored so far is making [[Second Brain/🖥️ Coding/Coding/abstract]] props for a class. These props are now in the `base` class and other classes which extend this base class need to implement those abstract props and functions.
 
 `useWatchAndRerender` This is the key to making the variables on the frontend work. I have to dig deeper into figuring out what this function does. 
 

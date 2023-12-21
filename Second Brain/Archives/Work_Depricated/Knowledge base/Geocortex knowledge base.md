@@ -2,7 +2,7 @@
 
 #TODO - Write all the findings from the PRs here and specific things like components and differences between react nodes and react components.
 
--   I can use the `?` [[Second Brain/🖥️ Coding/Coding/Links/operator]] directly on a property - IconComponent?: also React.component can be set as a type of the prop which then allows us to bas image, icon or whatever we want, and there is no need for a seperate showThumbnail.
+-   I can use the `?` [[Second Brain/🖥️ Coding/Coding/operator]] directly on a property - IconComponent?: also React.component can be set as a type of the prop which then allows us to bas image, icon or whatever we want, and there is no need for a seperate showThumbnail.
     
     -   The `.?` operator can be used for function and arguments too
 -   **Empty or null values -** usully just use `null` and not `undefined`
@@ -32,12 +32,12 @@
 
 ## Related to [[45493 - Label rotation is not rendered as defined by the map service]]
 
-There were issues with the `sublayer.load()` method however I have no idea why this caused so much issues. I just know that there was the [[Second Brain/🖥️ Coding/Coding/Links/modifiers]] `supportsDynamicLayers` and it was set to `true` always and that caused the issue. Removing that loading (and some temporary code) fixed it. 
+There were issues with the `sublayer.load()` method however I have no idea why this caused so much issues. I just know that there was the [[Second Brain/🖥️ Coding/Coding/modifiers]] `supportsDynamicLayers` and it was set to `true` always and that caused the issue. Removing that loading (and some temporary code) fixed it. 
 
 
 ## How to check if layer is sublayer or just layer?
 Currently I'm using this `this.layerExtension.supportsSublayers` not sure if this is the best way to do this
 
 ## add information about the branches and the testing when they are being tested and when I should merge it
-[[Second Brain/🖥️ Coding/Coding/Links/Deployment]]
+[[Second Brain/🖥️ Coding/Coding/Deployment]]
 
