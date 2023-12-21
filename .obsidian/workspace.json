@@ -8,67 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "327c23dfa9e8c238",
+            "id": "4d6edf879b1ab7b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second Brain/🖥️ Coding/abstract.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "7b4e1f5a9f1a34a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📬Inbox/Text based role playing game.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40ecf7873f4448a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b719be4e6697cbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "21-12-2023 Thu.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f46bcfd2cff925f0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "21-12-2023 Thu.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "21-12-2023 Thu.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "21-12-2023 Thu.md"
+                "file": "Home.md"
               }
             }
           },
@@ -240,37 +192,39 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1b719be4e6697cbf",
+  "active": "4d6edf879b1ab7b5",
   "lastOpenFiles": [
-    "Weekly/📅 2023-W51.md",
-    "21-12-2023 Thu.md",
-    "Home.md",
-    "conflict-files-obsidian-git.md",
-    "📬Inbox/Text based role playing game.md",
-    "📬Inbox/Obsidian workflow.md",
-    "📬Inbox/Ongoing project.md",
-    "Second Brain/📂Projects/MTG - Digital Binder.md",
-    "📬Inbox/MTG - Digital Binder.md",
-    "Second Brain/Dashboard - Inbox.md",
-    "📬Inbox/Manga.md",
-    "📬Inbox/Fiskaly - Onboarding.md",
-    "README.md",
-    "Second Brain/🖥️ Coding/abstract.md",
-    "Second Brain/🖥️ Coding/linkedin-skill-assessments-quizzes_javascript-quiz.md",
-    "Second Brain/🖥️ Coding/Deployment.md",
-    "Second Brain/🖥️ Coding/Macbook setup.md",
-    "Second Brain/🖥️ Coding/modifiers.md",
+    "Second Brain/📂Projects/DMS.md",
     "Second Brain/🖥️ Coding/operators in JS.md",
-    "Second Brain/🖥️ Coding/Nestjs.md",
-    "Second Brain/🖥️ Coding/React-testing.md",
-    "Second Brain/🖥️ Coding/React.md",
-    "Second Brain/🖥️ Coding/Refactor this document in other notes.md",
-    "Second Brain/🖥️ Coding/Tauri on Twitter_ _After 4 months of release candi.md",
-    "Second Brain/🖥️ Coding/The cloud data loss and privacy.md",
-    "Second Brain/🖥️ Coding/The Trimodal Nature of Software Engineering Salari.md",
-    "Second Brain/🖥️ Coding/TRPC",
+    "Second Brain/🖥️ Coding/modifiers.md",
+    "Second Brain/🖥️ Coding/git/Syncing a forked project.md",
     "Second Brain/🖥️ Coding/git",
-    "Second Brain/Blog posts",
+    "Second Brain/🖥️ Coding/js code snippets.md",
+    "Second Brain/🖥️ Coding/linkedin-skill-assessments-quizzes_javascript-quiz.md",
+    "Second Brain/🖥️ Coding/falsy.md",
+    "Second Brain/🖥️ Coding/What are Resources_.md",
+    "Second Brain/🖥️ Coding/clumsy, an utility for simulating broken network f.md",
+    "Second Brain/🖥️ Coding/abstract.md",
+    "Second Brain/🖥️ Coding/The Trimodal Nature of Software Engineering Salari.md",
+    "Second Brain/🖥️ Coding/TRPC/TRPC example app.md",
+    "Second Brain/🖥️ Coding/TRPC/TRPC basics.md",
+    "Second Brain/🖥️ Coding/TRPC",
+    "Second Brain/🖥️ Coding/TS Utility.md",
+    "Templates/Daily.md",
+    "To Read.md",
+    "Second Brain/🖥️ Coding/Rust/Rust Learning/Learning rust - Rust book.md",
+    "Second Brain/🖥️ Coding/Rust/Rust Learning",
+    "Second Brain/🖥️ Coding/React-testing.md",
+    "Second Brain/🖥️ Coding/Digitaler Arbeitsplatz.md",
+    "Second Brain/🖥️ Coding/Devops/Kiali - Kubernetes/sidecars.md",
+    "Second Brain/🖥️ Coding/Devops/Kiali - Kubernetes/service mesh.md",
+    "Second Brain/🖥️ Coding/Devops/Kiali - Kubernetes/Service mesh example.md",
+    "Second Brain/🖥️ Coding/Devops/Kiali - Kubernetes/Mapping the Service Endpoints.md",
+    "Second Brain/🖥️ Coding/Devops/Kiali - Kubernetes/kiali.md",
+    "Second Brain/🖥️ Coding/Devops/Kiali - Kubernetes/Kiali traffic management.md",
+    "Second Brain/🖥️ Coding/Devops/Kiali - Kubernetes",
+    "Second Brain/🖥️ Coding/Devops/Flux CD - Auto deployment for Kubernetes.md",
+    "Second Brain/📂Projects/Server - NAS - Selfhosted",
     "Templates",
     "Weekly",
     "Gaming/Magic The Gathering/Decks"
