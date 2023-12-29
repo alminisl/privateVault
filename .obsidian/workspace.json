@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6aff5ea7654f0540",
+        "id": "ada300900cac8a2e",
         "type": "tabs",
         "children": [
           {
-            "id": "4d6edf879b1ab7b5",
+            "id": "4f47d83993e420cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mount",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,7 +153,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -188,12 +191,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "4d6edf879b1ab7b5",
+  "active": "4f47d83993e420cd",
   "lastOpenFiles": [
+    "Second Brain/📂Projects/Fiskaly/Meetings/Brainstorm meeting.md",
+    "Second Brain/📖Resources/PK/Cloud Setup.md",
+    "Home.md",
     "Second Brain/📂Projects/DMS.md",
     "Second Brain/🖥️ Coding/operators in JS.md",
     "Second Brain/🖥️ Coding/modifiers.md",
@@ -220,10 +226,7 @@
     "Second Brain/🖥️ Coding/Devops/Kiali - Kubernetes/service mesh.md",
     "Second Brain/🖥️ Coding/Devops/Kiali - Kubernetes/Service mesh example.md",
     "Second Brain/🖥️ Coding/Devops/Kiali - Kubernetes/Mapping the Service Endpoints.md",
-    "Second Brain/🖥️ Coding/Devops/Kiali - Kubernetes/kiali.md",
-    "Second Brain/🖥️ Coding/Devops/Kiali - Kubernetes/Kiali traffic management.md",
     "Second Brain/🖥️ Coding/Devops/Kiali - Kubernetes",
-    "Second Brain/🖥️ Coding/Devops/Flux CD - Auto deployment for Kubernetes.md",
     "Second Brain/📂Projects/Server - NAS - Selfhosted",
     "Templates",
     "Weekly",
