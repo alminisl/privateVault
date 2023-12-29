@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Second Brain/Home Server/Main.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Second Brain/Home Server/Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Second Brain/Home Server/Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Second Brain/Home Server/Main.md"
               }
             }
           },
@@ -197,9 +196,11 @@
   },
   "active": "4f47d83993e420cd",
   "lastOpenFiles": [
+    "Home.md",
+    "Second Brain/Home Server/Main.md",
+    "Second Brain/Home Server",
     "Second Brain/📂Projects/Fiskaly/Meetings/Brainstorm meeting.md",
     "Second Brain/📖Resources/PK/Cloud Setup.md",
-    "Home.md",
     "Second Brain/📂Projects/DMS.md",
     "Second Brain/🖥️ Coding/operators in JS.md",
     "Second Brain/🖥️ Coding/modifiers.md",
@@ -225,7 +226,6 @@
     "Second Brain/🖥️ Coding/Devops/Kiali - Kubernetes/sidecars.md",
     "Second Brain/🖥️ Coding/Devops/Kiali - Kubernetes/service mesh.md",
     "Second Brain/🖥️ Coding/Devops/Kiali - Kubernetes/Service mesh example.md",
-    "Second Brain/🖥️ Coding/Devops/Kiali - Kubernetes/Mapping the Service Endpoints.md",
     "Second Brain/🖥️ Coding/Devops/Kiali - Kubernetes",
     "Second Brain/📂Projects/Server - NAS - Selfhosted",
     "Templates",

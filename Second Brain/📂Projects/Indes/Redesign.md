@@ -17,6 +17,6 @@
 
 - There is a server which has all the tech stuff 
 
-- [ ] Make a proof of concept 
-	- [ ] Make documentation for the technologies used and then make a POC
+- [x] Make a proof of concept ✅ 2023-12-29
+	- [x] Make documentation for the technologies used and then make a POC ✅ 2023-12-29
 
